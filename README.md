@@ -1,7 +1,7 @@
 - 👋 HOla, soy @LOROX497
 - 👀 Estoy interesado en crear un servidor de fivem
 - 🌱 Actualmente estoy aprendiendo a crear servidores desde 0
-- 📫 Para contactar conmigo simplemente me agregais en discors soy Yeraypina#0558 ...
+- 📫 Para contactar conmigo simplemente me agregais en discord soy Yeraypina#0558
 - ⚡ Dato Curioso, creo ropa personalizada para fivem a tu gusto 
 
 <!---
